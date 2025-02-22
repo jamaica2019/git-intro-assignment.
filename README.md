@@ -1,1 +1,1 @@
-# git-intro-assignment.
+This is a practice Git workflow project
